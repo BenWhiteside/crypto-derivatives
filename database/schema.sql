@@ -1,5 +1,3 @@
--- PostgreSQL schema for cryptocurrency options pricing project
-
 -- Table: cryptocurrencies
 CREATE TABLE public.cryptocurrencies (
     crypto_id SERIAL PRIMARY KEY,
